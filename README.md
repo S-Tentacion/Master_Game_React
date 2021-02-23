@@ -2,7 +2,6 @@
 Live on -  https://happy-swirles-547e44.netlify.app
 <h3>INTRODUCTION</h3>
 <p>Master Game is  like a quiz game where every time you get 5 questions with 4 options and you need to choose correct answer  and you will get new question after every 5 question's result.</p>
-<br>
 <h3>TECHNOLOGIES</h3>
 <ul>
   <li>REACT JS</li>
