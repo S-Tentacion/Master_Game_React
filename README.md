@@ -1,5 +1,5 @@
 # Master Game React
-> Master Game is like a quiz game where every time you get 5 questions with 4 options and you need to choose correct answer and you will get new question after every 5 question's  result.The quiz is meant to be fun. There is no registration of the quiz application that make quick and the user experience should be simple.
+> Master Game is like a quiz game where every time you get 5 questions with 4 options and you need to choose correct answer and you will get new question after every 5 question's  result. The quiz is meant to be fun. There is no registration of the quiz application that make quick and the user experience should be simple.
 
 Live on -  https://happy-swirles-547e44.netlify.app
 ## Technologies
